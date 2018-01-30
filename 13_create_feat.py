@@ -159,4 +159,5 @@ test_feat3["id"] = pd.DataFrame(test_feat["id"])
 train_feat3.to_csv("train_feat3.csv")
 test_feat3.to_csv("test_feat3.csv")
 
-a=1
+a=2
+b=1
